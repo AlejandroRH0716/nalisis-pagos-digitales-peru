@@ -1,4 +1,4 @@
-# 📊 Transición hacia el Dinero Digital en el Perú (2024–2026)
+# Transición hacia el Dinero Digital en el Perú (2024–2026)
 
 Análisis macrofinanciero interactivo sobre la adopción de billeteras móviles (Yape, Plin), cuota de mercado y desplazamiento del retiro de efectivo en cajeros automáticos del sistema financiero peruano.
 
